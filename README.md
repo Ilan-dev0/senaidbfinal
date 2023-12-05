@@ -41,7 +41,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
 3. Instale as dependências:
 
     ```bash
-    pip install 
+    pip install -r requirements.txt
     ```
 
 ### Executando o Aplicativo
