@@ -1,4 +1,5 @@
-# Nome do Seu Projeto
+# Construção de Sistema de Gestão de Inventário com CRUD em
+Python e Modelagem de Dados
 
 ## Descrição do Projeto
 
