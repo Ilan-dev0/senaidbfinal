@@ -1,5 +1,4 @@
-# Construção de Sistema de Gestão de Inventário com CRUD em
-Python e Modelagem de Dados
+# Construção de Sistema de Gestão de Inventário com CRUD em Python e Modelagem de Dados
 
 ## Descrição do Projeto
 
