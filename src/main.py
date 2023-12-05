@@ -1,9 +1,7 @@
-import mysql.connector
-from conexaobancodedados import conectar
-from puxarDado import getCidadeByName, listarClientePorID, listarFornecedorPorID
+from puxarDado import listarClientePorID, listarFornecedorPorID
 from deletarDado import excluirClientePorID, excluirFornecedorPorID
-from atualizarDado import atualizarCliente
-from cadastrar import cadastrar_cliente, cadastrar_endereco, cadastrar_telefone, obter_ultimo_id
+from src.atualizarDado import atualizarCliente
+from cadastrar import cadastrar_cliente
 
 while True:
     print("[1] Cadastrar\n[2] Listar\n[3] Alterar\n[4] Deletar\n[5] Sair")
