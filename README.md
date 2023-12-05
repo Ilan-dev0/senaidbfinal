@@ -44,3 +44,8 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
     pip install -r requirements.txt
     ```
 
+4. Execução do código:
+
+```bash
+python main.py
+```
