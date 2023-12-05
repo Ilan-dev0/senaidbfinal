@@ -44,9 +44,3 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
     pip install -r requirements.txt
     ```
 
-### Executando o Aplicativo
-
-Para iniciar o aplicativo, execute o seguinte comando:
-
-```bash
-npm start  # ou yarn start
