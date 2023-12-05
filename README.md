@@ -21,7 +21,8 @@ Remoção de Produtos: Remova itens do inventário quando necessário, mantendo 
 
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
-- [Python](https://www.python.org/) 
+- [Python](https://www.python.org/)
+- [Pip]([https://www.python.org/](https://pypi.org/project/pip/)) 
 
 ### Configuração
 
@@ -40,7 +41,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
 3. Instale as dependências:
 
     ```bash
-    npm install  # ou yarn install
+    pip install 
     ```
 
 ### Executando o Aplicativo
